@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="867e7066-4eca-4ea1-88e7-103bbe69a029" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Urok-15/src/Test9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Urok-17/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Urok-17/src/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Urok-18/src/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Urok-19/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Urok-19_1/src/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Urok-19_1/src/Test6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Urok-20.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Urok-4/src/Test22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Urok_20.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/Db/OracleCon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/Urok_20/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/Urok_22/Anim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/Urok_22/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/Urok_22/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/Urok_22/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/Urok_22/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Urok-11/out/production/Urok-11/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/Urok-11/out/production/Urok-11/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Urok-11/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/Urok-11/src/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Urok-12/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Urok-12/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Urok-12/src/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Urok-12/src/Test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Urok-13/out/production/Urok-13/Month.class" beforeDir="false" afterPath="$PROJECT_DIR$/Urok-13/out/production/Urok-13/Month.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Urok-13/src/Month.java" beforeDir="false" afterPath="$PROJECT_DIR$/Urok-13/src/Month.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Urok-13/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Urok-13/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Urok-14/out/production/Urok-14/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/Urok-14/out/production/Urok-14/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Urok-14/out/production/Urok-14/Test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/Urok-14/out/production/Urok-14/Test2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Urok-14/out/production/Urok-14/Test4.class" beforeDir="false" afterPath="$PROJECT_DIR$/Urok-14/out/production/Urok-14/Test4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Urok-14/out/production/Urok-14/Test7.class" beforeDir="false" afterPath="$PROJECT_DIR$/Urok-14/out/production/Urok-14/Test7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Urok-14/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Urok-14/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Urok-14/src/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Urok-14/src/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Urok-14/src/Test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Urok-14/src/Test4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Urok-14/src/Test7.java" beforeDir="false" afterPath="$PROJECT_DIR$/Urok-14/src/Test7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Urok-15/out/production/Urok-15/Test7.class" beforeDir="false" afterPath="$PROJECT_DIR$/Urok-15/out/production/Urok-15/Test7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Urok-15/src/Test8.java" beforeDir="false" afterPath="$PROJECT_DIR$/Urok-15/src/Test8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Urok-16/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Urok-16/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Urok-17/out/production/Urok-17/StringMethods1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Urok-17/out/production/Urok-17/StringMethods1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Urok-17/out/production/Urok-17/StringMethods4.class" beforeDir="false" afterPath="$PROJECT_DIR$/Urok-17/out/production/Urok-17/StringMethods4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Urok-17/src/StringMethods1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Urok-17/src/StringMethods1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Urok-17/src/StringMethods4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Urok-17/src/StringMethods4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Urok-17/src/StringMethods5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Urok-17/src/StringMethods5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Urok-18/out/production/Urok-18/HomeWork.class" beforeDir="false" afterPath="$PROJECT_DIR$/Urok-18/out/production/Urok-18/HomeWork.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Urok-18/out/production/Urok-18/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Urok-18/out/production/Urok-18/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Urok-18/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Urok-18/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Urok-19/out/production/Urok-19/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Urok-19/out/production/Urok-19/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Urok-19/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Urok-19/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Urok-4/out/production/Urok-4/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Urok-4/out/production/Urok-4/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Urok-4/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Urok-4/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Urok-5/src/CarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Urok-5/src/CarTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Urok-6/out/production/Urok-6/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/Urok-6/out/production/Urok-6/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Urok-6/out/production/Urok-6/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Urok-6/out/production/Urok-6/Test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Urok-6/src/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Urok-6/src/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Urok-8/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Urok-8/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python/ForLearning/.idea/ForLearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../python/ForLearning/.idea/ForLearning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python/ForLearning/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../python/ForLearning/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python/ForLearning/first.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../python/ForLearning/first.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../frontend/Anthony Alicea/Section 2 - Execution Contexts and Lexical Environments/59. Function Constructors and '.prototype'/Screenshot_39.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../frontend/For Test/react-memo-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../frontend/For Test/react-memo-app/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../frontend/JsInfo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../frontend/JsInfo/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2K4vdTekP4U86bVSYvBW4q9dDT6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="867e7066-4eca-4ea1-88e7-103bbe69a029" name="Default Changelist" comment="" />
+      <created>1673246758384</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673246758384</updated>
+    </task>
+    <servers />
+  </component>
+</project>

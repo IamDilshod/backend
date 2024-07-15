@@ -1,0 +1,4 @@
+Salom dunyo
+Salom Python
+Salom JavaScript
+Salom Java

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04a8ccb4-3f88-4141-9408-179d6799dbb4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Urok-4/src/Test22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Urok-11/out/production/Urok-11/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Urok-11/out/production/Urok-11/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Urok-11/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Urok-11/src/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Urok-4/out/production/Urok-4/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Urok-4/out/production/Urok-4/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Urok-4/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Urok-4/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Urok-5/src/CarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Urok-5/src/CarTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Urok-6/out/production/Urok-6/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Urok-6/out/production/Urok-6/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Urok-6/out/production/Urok-6/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Urok-6/out/production/Urok-6/Test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Urok-6/src/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Urok-6/src/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Urok-8/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Urok-8/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../frontend/Anthony Alicea/Section 2 - Execution Contexts and Lexical Environments/59. Function Constructors and '.prototype'/Screenshot_39.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../frontend/For Test/react-memo-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../frontend/For Test/react-memo-app/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../frontend/JsInfo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../frontend/JsInfo/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectId" id="26VIuaDHpuJ0UvVLZuaRQYFN0CX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Urok-13" />
+  </component>
+  <component name="RunManager" selected="Application.Test5">
+    <configuration name="CarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CarTest" />
+      <module name="Urok-12" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test2" />
+      <module name="Urok-12" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test3" />
+      <module name="Urok-12" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test4" />
+      <module name="Urok-12" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test5" />
+      <module name="Urok-12" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test5" />
+        <item itemvalue="Application.Test4" />
+        <item itemvalue="Application.CarTest" />
+        <item itemvalue="Application.Test3" />
+        <item itemvalue="Application.Test2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04a8ccb4-3f88-4141-9408-179d6799dbb4" name="Default Changelist" comment="" />
+      <created>1647502552062</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647502552062</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Urok-10/src"/>
+	<classpathentry kind="src" path="Urok-11/src"/>
+	<classpathentry kind="src" path="Urok-12/src"/>
+	<classpathentry kind="src" path="Urok-13/src"/>
+	<classpathentry kind="src" path="Urok-14/src"/>
+	<classpathentry kind="src" path="Urok-15/src"/>
+	<classpathentry kind="src" path="Urok-16/src"/>
+	<classpathentry kind="src" path="Urok-17/src"/>
+	<classpathentry kind="src" path="Urok-18/src"/>
+	<classpathentry kind="src" path="Urok-19_1/src"/>
+	<classpathentry kind="src" path="Urok-19/src"/>
+	<classpathentry kind="src" path="Urok-2/src"/>
+	<classpathentry kind="src" path="Urok-26/src"/>
+	<classpathentry kind="src" path="Urok-27/src"/>
+	<classpathentry kind="src" path="Urok-29/src"/>
+	<classpathentry kind="src" path="Urok-3/src"/>
+	<classpathentry kind="src" path="Urok-30/src"/>
+	<classpathentry kind="src" path="Urok-4/src"/>
+	<classpathentry kind="src" path="Urok-5/src"/>
+	<classpathentry kind="src" path="Urok-6/src"/>
+	<classpathentry kind="src" path="Urok-7/src"/>
+	<classpathentry kind="src" path="Urok-8/src"/>
+	<classpathentry kind="src" path="Urok-9/src"/>
+	<classpathentry kind="output" path="Urok-11/out/production/Urok-11"/>
+</classpath>
